@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @H-RahmanDev
-- 👀 I’m interested in ... Ai Engineering
-- 🌱 I’m currently learning ... Front-end React
+- 🌱 I’m currently learning ... Front-end Dev
 - 📫 How to reach me ... rahmanhamza881@gmail.com
 
 <!---
