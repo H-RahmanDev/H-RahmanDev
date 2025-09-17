@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @H-RahmanDev
-- 🌱 I’m currently learning ... Front-end Dev
+- 🌱 Data Science Student
 - 📫 How to reach me ... rahmanhamza881@gmail.com
 
 <!---
